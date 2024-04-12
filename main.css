@@ -29,7 +29,7 @@
   text-decoration: none; /* Remove underline on hover */
 }
 
-.col-md-6 {
+.card team-card {
     background-color: white;
 }
 
