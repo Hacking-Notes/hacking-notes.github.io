@@ -29,6 +29,10 @@
   text-decoration: none; /* Remove underline on hover */
 }
 
+.col-md-6 {
+    background-color: white;
+}
+
 
 #badge{
     position: absolute;
