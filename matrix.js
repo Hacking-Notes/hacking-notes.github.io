@@ -7,7 +7,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 // Setting up the letters
-var letters = 'Void';
+var letters = 'hacking notes';
 letters = letters.split('');
 
 // Setting up the columns
