@@ -29,11 +29,6 @@
   text-decoration: none; /* Remove underline on hover */
 }
 
-.card team-card {
-    background-color: white;
-}
-
-
 #badge{
     position: absolute;
     top: 5px;
