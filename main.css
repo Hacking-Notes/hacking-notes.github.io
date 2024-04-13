@@ -153,3 +153,9 @@
 
     }
   }
+
+@media screen and (max-width: 765px) {
+  .team-card {
+    display: none;
+  }
+}
